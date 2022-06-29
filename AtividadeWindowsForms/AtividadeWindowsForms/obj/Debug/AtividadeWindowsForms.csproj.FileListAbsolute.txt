@@ -1,0 +1,11 @@
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\bin\Debug\AtividadeWindowsForms.exe.config
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\bin\Debug\AtividadeWindowsForms.exe
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\bin\Debug\AtividadeWindowsForms.pdb
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\obj\Debug\AtividadeWindowsForms.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\obj\Debug\AtividadeWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\obj\Debug\AtividadeWindowsForms.Form1.resources
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\obj\Debug\AtividadeWindowsForms.Properties.Resources.resources
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\obj\Debug\AtividadeWindowsForms.csproj.GenerateResource.cache
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\obj\Debug\AtividadeWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\obj\Debug\AtividadeWindowsForms.exe
+C:\Users\hecto\source\repos\AtividadeWindowsForms\AtividadeWindowsForms\obj\Debug\AtividadeWindowsForms.pdb
